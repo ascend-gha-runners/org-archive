@@ -1,0 +1,11 @@
+org-name: awesome-ai-org
+github-app: 
+  instalation-id: 11111111
+runner-group: 
+  group-name: ascend-ci
+runner-set: 
+  npu-counts: 1, 2
+
+online-runners:
+  - linux-arm64-npu-1
+  - linux-arm64-npu-2
