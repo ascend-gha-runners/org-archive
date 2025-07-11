@@ -9,7 +9,7 @@ assignees: ""
 Welcome to use this template to submit an issue to add your repository to the NPU Runners. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
 
 ```yaml
-org-name: 
+repo-name: 
 npu-counts: 
 ```
 
