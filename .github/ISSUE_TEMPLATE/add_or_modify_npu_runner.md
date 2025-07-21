@@ -18,5 +18,5 @@ npu-counts:
 |------|------|------|-----|
 | `org-name` | Full name of the organization | `awesome-ai-org` | ✅ |
 | `runner-group-name` | The group name of the configured runner group | `ascend-ci` | ✅ |
-| `runner-names` | The number of NPUs mounted by the runners | `linux-arm64-npu-1, linux-arm64-310p-2, linux-arm64-910c-4` | ✅ |
+| `runner-names` | The names of runner set | `linux-arm64-npu-1, linux-arm64-310p-2, linux-arm64-910c-4` | ✅ |
 
