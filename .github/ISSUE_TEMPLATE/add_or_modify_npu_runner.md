@@ -11,7 +11,7 @@ Welcome to use this template to submit an issue to add your organization to the 
 ```yaml
 org-name: 
 runner-group-name: 
-npu-counts: 
+runner-names: 
 ```
 
 | Field | Description | Example | Required |
