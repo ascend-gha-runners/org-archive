@@ -10,7 +10,7 @@ Welcome to use this template to submit an issue to add your repository to the NP
 
 ```yaml
 repo-name: 
-npu-counts: 
+runner-names: 
 ```
 
 | Field | Description | Example | Required |
